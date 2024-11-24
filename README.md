@@ -12,16 +12,14 @@
 ### Sobre
 
 <i>
+
+##💡 Sobre Mim
+ 
+> Sou apaixonado por tecnologia e dados, com experiência prática em programação, análise de dados e automação de processos. Tenho interesse em transformar informações em soluções estratégicas e contribuir para projetos que gerem impacto positivo.
   
-> Olá, sou o Jader, estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas e comecei minha jornada acadêmica na área de Matemática onde aprendi 
-  sobre lógica de programação, programação em C e C++, cálculo, álgebra e estatística. Apesar de não ter concluído essa graduação, 
-  ela me ajudou a direcionar minha carreira para a área da tecnologia.
-  
-> Atualmente, estou me aprofundando em temas como programação em Python, modelagem de banco de dados, SQL, business intelligence, resolução de problemas e gerenciamento de projetos. 
-Ao longo do meu percurso, também busquei diversas certificações que complementam meu aprendizado, como Excel Avançado, IT Essentials pela Cisco Academy, Power BI, gestão de anúncios,
-automações e desenvolvimento em Python, além de cursos de banco de dados e engenharia de dados.
+> Meu foco está no desenvolvimento contínuo de habilidades em linguagens de programação, análise de dados e ferramentas de inteligência de negócios, sempre buscando inovação e eficiência.
   
 > Estou sempre buscando expandir meus conhecimentos e me aprimorar na área de tecnologia, com foco em desenvolvimento de sistemas, análise de dados e soluções inteligentes.
 </i>
 
-### E aqui no GitHub está um pouquinho do que tenho feito e aprendido.
+# E aqui no GitHub está um pouquinho do que tenho feito e aprendido.
