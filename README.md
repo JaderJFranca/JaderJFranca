@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-#### <i class="devicon-azuresqldatabase-plain colored"></i> <i class="devicon-python-plain-wordmark"></i> <i class="devicon-visualbasic-plain colored"></i>
+<i class="devicon-azuresqldatabase-plain colored"></i> <i class="devicon-python-plain-wordmark"></i> <i class="devicon-visualbasic-plain colored"></i>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jader-franca948)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaderJFranca)
