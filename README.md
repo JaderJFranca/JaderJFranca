@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jader-franca948)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaderJFranca)
+[![NotionPage](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://furry-cartwheel-27c.notion.site/Jader-Fran-a-14cc8fe29c648031817cd7f45b04914a)
 
 <div>
 <img width ="350em" src = "https://github-readme-stats.vercel.app/api/top-langs?username=JaderJFranca&layout=compact&theme=dracula"/>
