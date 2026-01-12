@@ -14,6 +14,7 @@
   <img align="center" alt="Jader-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Jader-Excel" height="40" width="40" src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png">
   <img align="center" alt="Jader-PowerBI" height="40" width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
+  <img align="center" alt="Jader-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
   
 ##
 
