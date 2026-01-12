@@ -13,6 +13,7 @@
   <img align="center" alt="Jader-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Jader-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Jader-Excel" height="40" width="40" src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png">
+  <img align="center" alt="Jader-PowerBI" height="40" width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
   
 ##
 
@@ -22,11 +23,11 @@
 
 
  
-> Sou apaixonado por tecnologia e dados, com experiência prática em programação, análise de dados e automação de processos. Tenho interesse em transformar informações em soluções estratégicas e contribuir para projetos que gerem impacto positivo.
+> Sou um profissional em início de carreira na área de Análise de Dados, graduando em Análise e Desenvolvimento de Sistemas, com foco em transformar dados em informações claras para apoiar a tomada de decisões.
   
-> Meu foco está no desenvolvimento contínuo de habilidades em linguagens de programação, análise de dados e ferramentas de inteligência de negócios, sempre buscando inovação e eficiência.
+> Atuo como Assistente de TI, desenvolvendo dashboards e relatórios em Power BI e Excel, realizando consultas em SQL, automatizando processos com Python, Power Query e VBA e contribuindo com melhorias no ERP Sankhya. Tenho experiência anterior em e-commerce, com análise de desempenho, métricas e integração de sistemas.
   
-> Estou sempre buscando expandir meus conhecimentos e me aprimorar na área de tecnologia, com foco em desenvolvimento de sistemas, análise de dados e soluções inteligentes.
+> Concluí o Google Data Analytics e um Bootcamp de Engenharia de Dados com Python. Possuo conhecimentos em Python, SQL, Power BI, Excel Avançado, Git/GitHub e bancos de dados, e busco evolução contínua na área de Dados.
 </i>
 
 #### E aqui no GitHub está um pouquinho do que tenho feito e aprendido.
