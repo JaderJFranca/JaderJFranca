@@ -24,11 +24,16 @@
 
 
  
-> Sou um profissional em início de carreira na área de Análise de Dados, graduando em Análise e Desenvolvimento de Sistemas, com foco em transformar dados em informações claras para apoiar a tomada de decisões.
-  
-> Atuo como Assistente de TI, desenvolvendo dashboards e relatórios em Power BI e Excel, realizando consultas em SQL, automatizando processos com Python, Power Query e VBA e contribuindo com melhorias no ERP Sankhya. Tenho experiência anterior em e-commerce, com análise de desempenho, métricas e integração de sistemas.
-  
-> Concluí o Google Data Analytics e um Bootcamp de Engenharia de Dados com Python. Possuo conhecimentos em Python, SQL, Power BI, Excel Avançado, Git/GitHub e bancos de dados, e busco evolução contínua na área de Dados.
+> Profissional de TI com atuação focada em dados dentro de ambiente industrial. Na Metalúrgica Fujii, desenvolvo dashboards em Power BI, escrevo consultas SQL com JOINs e agregações no ERP Sankhya, automatizo relatórios com Excel, Power Query e VBA e trato dados com Python para uso em análises internas.
+ 
+> No dia a dia, faço o ciclo completo de extração, transformação e entrega de dados — da consulta no banco até o relatório ou dashboard na mão de quem decide.
+ 
+> Fora do trabalho, desenvolvi um projeto de análise de mobilidade urbana com SQL, R e Tableau, passando por toda a pipeline: limpeza, EDA, visualização e recomendações estratégicas.
+ 
+> Estou concluindo o tecnólogo em Análise e Desenvolvimento de Sistemas e tenho certificações em Google Data Analytics, Power BI, Excel Avançado e Engenharia de Dados com Python.
+ 
+> Busco uma posição como Analista de Dados Júnior onde possa aprofundar esse trabalho em um contexto mais especializado em dados.
+> 
 </i>
 
 #### E aqui no GitHub está um pouquinho do que tenho feito e aprendido.
